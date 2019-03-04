@@ -64,10 +64,10 @@ set GOPATH=C:\GOPROJECTS
 After the Go language is set up, run:
 
     ```bash
-    go get github.com/autodesk-forge/forge.learning.viewmodels.go
+    go get github.com/apprentice3d/forge.learning.viewmodels.go
     ```
 
-    and navigate to `$GOPATH/src/github.com/autodesk-forge/forge.learning.viewmodels.go` and run
+    and navigate to `$GOPATH/src/github.com/apprentice3d/forge.learning.viewmodels.go` and run
 
     ```bash
     go run main.go 
