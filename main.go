@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/apprentice3d/learn.forge.viewmodels/server"
+	"github.com/apprentice3d/forge.learning.viewmodels.go/server"
 )
 
 const (
